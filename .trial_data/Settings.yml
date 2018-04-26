@@ -3,9 +3,9 @@
 # repo_name: bugmark-trial/worker1_1804
 repo_type: yaml
 repo_name: /tmp/worker1.yml
-num_pr_issues:      10
-num_comment_issues: 10
-max_hint_level:     3
+num_pr_issues:      3
+num_comment_issues: 3
+max_hint_level:     2
 c2_price:    1.00
 c2_volume:   10
 c1_price:    0.95
