@@ -1,13 +1,12 @@
 # Question:
-# Write a Python program that accepts sequence of lines as input and prints the
-# lines after making all characters in the sentence capitalized.
+# Write a Python program that accepts a comma separated sequence of words as
+# input and prints the words in a comma-separated sequence after sorting
+# them alphabetically.
 #
 # Suppose the following input is supplied to the program:
-# Hello world
-# Practice makes perfect
+# without,hello,bag,world
 # Then, the output should be:
-# HELLO WORLD
-# PRACTICE MAKES PERFECT
+# bag,hello,without,world
 #
 # Hints:
 # In case of input data being supplied to the question, it should be
