@@ -1,4 +1,6 @@
-Unscramble this word: t e l v o i a
+Unscramble this word: e l i m s r a
+
+HINT: the unscrambled word starts with 'r'
 
 
 

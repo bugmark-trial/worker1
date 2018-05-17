@@ -1,6 +1,6 @@
-Unscramble this word: a r u r g e l
+Unscramble this word: i t u n o s p
 
-HINT: the unscrambled word starts with 'reg'
+HINT: the unscrambled word starts with 'spi'
 
 
 

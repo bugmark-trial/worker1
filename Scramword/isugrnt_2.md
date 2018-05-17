@@ -1,6 +1,6 @@
-Unscramble this word: g s i r c a a
+Unscramble this word: i s u g r n t
 
-HINT: the unscrambled word starts with 'ag'
+HINT: the unscrambled word starts with 'ru'
 
 
 

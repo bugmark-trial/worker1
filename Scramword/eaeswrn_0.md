@@ -1,6 +1,4 @@
-Unscramble this word: l p i g n e o
-
-HINT: the unscrambled word starts with 'e'
+Unscramble this word: e a e s w r n
 
 
 
