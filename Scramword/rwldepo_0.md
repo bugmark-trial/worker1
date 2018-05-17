@@ -1,6 +1,4 @@
-Unscramble this word: e l i m s r a
-
-HINT: the unscrambled word starts with 'r'
+Unscramble this word: r w l d e p o
 
 
 

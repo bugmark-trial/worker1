@@ -1,4 +1,6 @@
-Unscramble this word: e a e s w r n
+Unscramble this word: x l e d t e e
+
+HINT: the unscrambled word starts with 't'
 
 
 

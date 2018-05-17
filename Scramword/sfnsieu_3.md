@@ -1,6 +1,6 @@
-Unscramble this word: i t u n o s p
+Unscramble this word: s f n s i e u
 
-HINT: the unscrambled word starts with 'spi'
+HINT: the unscrambled word starts with 'inf'
 
 
 

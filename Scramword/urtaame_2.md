@@ -1,6 +1,6 @@
-Unscramble this word: i s u g r n t
+Unscramble this word: u r t a a m e
 
-HINT: the unscrambled word starts with 'ru'
+HINT: the unscrambled word starts with 'am'
 
 
 
